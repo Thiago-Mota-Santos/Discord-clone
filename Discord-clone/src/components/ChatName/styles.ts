@@ -4,7 +4,6 @@ import { Hash } from  'phosphor-react'
 export const Container = styled.div`
    grid-area: CN;
    display:flex;
-  // justify-content:space-between;
    align-items: center;
    background:var(--secondary);
    padding: 0 17px;

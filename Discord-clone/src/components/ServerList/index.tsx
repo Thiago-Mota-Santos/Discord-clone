@@ -17,11 +17,6 @@ const ServerList: React.FC = () => {
       <Icon />
       <Icon />
       <Icon />
-      <Icon />
-      <Icon />
-      <Icon />
-      <Icon />
-      <Icon />
     </Container>
   );
 };

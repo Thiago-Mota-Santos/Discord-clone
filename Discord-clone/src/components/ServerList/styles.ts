@@ -8,6 +8,12 @@ export const Container = styled.div`
    height:100%;
    background:var(--tertiary);
    padding:11px; 
+   flex-shrink: 0;
+   overflow: hidden;
+
+   --webkit-scrolbar{
+      display:none;
+   }
    
 `;
 
