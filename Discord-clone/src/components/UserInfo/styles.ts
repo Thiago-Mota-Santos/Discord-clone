@@ -24,7 +24,7 @@ export const Container = styled.div`
   >div strong{
     margin-left: 5px;
     color:var(--white);
-    font-size: 16px;
+    font-size: 14px;
   }
 
 `;

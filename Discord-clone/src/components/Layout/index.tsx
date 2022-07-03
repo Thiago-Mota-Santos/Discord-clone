@@ -5,6 +5,8 @@ import ChatName from "../ChatName";
 import ChannelList from "../ChannelList";
 import { Grid } from "./styles";
 import UserInfo from "../UserInfo";
+import ChannelInfo from "../ChannelInfo";
+import UserList from "../UserList";
 
 const layouy: React.FC = () => {
   return (
@@ -14,6 +16,8 @@ const layouy: React.FC = () => {
       <ChatName />
       <ChannelList />
       <UserInfo />
+      <ChannelInfo />
+      <UserList />
     </Grid>
   );
 };

@@ -6,8 +6,8 @@ export const Container = styled.div`
    display:flex;
    align-items: center;
    background:var(--secondary);
+   border-bottom: 1px solid var(--tertiary);
    padding: 0 17px;
-   box-shadow: rgba(0,0,0,0.2) 0px 1px 0px 0px;
    
 `;
 

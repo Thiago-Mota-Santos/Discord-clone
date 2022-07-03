@@ -6,9 +6,9 @@ export const Container = styled.div`
   display:flex;
   justify-content: space-between;
   align-items: center;
-  background:var(--tertiary);
+  background:var(--secondary);
   padding: 0 11px 0 16px;
-  box-shadow: rgba(0,0,0,0.2) 0px 1px 0px 0px;
+  border-bottom: 1px solid var(--tertiary);
   
 `;
 export const Text = styled.h1`
