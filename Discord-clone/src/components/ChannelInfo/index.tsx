@@ -73,6 +73,156 @@ const ChannelInfo: React.FC = () => {
           date="04/07/2022"
           content="Se amor fosse preto e carinho fosse branco oq eu sinto por você seria xadrezinho"
         />
+        <ChannelMessage
+          author="Kaneko"
+          date="04/07/2022"
+          content="Se amor fosse preto e carinho fosse branco oq eu sinto por você seria xadrezinho"
+        />
+        <ChannelMessage
+          author="Kaneko"
+          date="04/07/2022"
+          content="Se amor fosse preto e carinho fosse branco oq eu sinto por você seria xadrezinho"
+        />
+        <ChannelMessage
+          author="Kaneko"
+          date="04/07/2022"
+          content="Se amor fosse preto e carinho fosse branco oq eu sinto por você seria xadrezinho"
+        />
+        <ChannelMessage
+          author="Kaneko"
+          date="04/07/2022"
+          content="Se amor fosse preto e carinho fosse branco oq eu sinto por você seria xadrezinho"
+        />
+        <ChannelMessage
+          author="Gratos"
+          date="03/07/2022"
+          content="Você tem que entender que Ergo Proxy não é soninho, eu vi num dia só"
+        />
+        <ChannelMessage
+          author="Gratos"
+          date="03/07/2022"
+          content="Você tem que entender que Ergo Proxy não é soninho, eu vi num dia só"
+        />
+        <ChannelMessage
+          author="Gratos"
+          date="03/07/2022"
+          content="Você tem que entender que Ergo Proxy não é soninho, eu vi num dia só"
+        />
+        <ChannelMessage
+          author="Gratos"
+          date="03/07/2022"
+          content="Você tem que entender que Ergo Proxy não é soninho, eu vi num dia só"
+        />
+        <ChannelMessage
+          author="Gratos"
+          date="03/07/2022"
+          content="Você tem que entender que Ergo Proxy não é soninho, eu vi num dia só"
+        />
+        <ChannelMessage
+          author="Gratos"
+          date="03/07/2022"
+          content="Você tem que entender que Ergo Proxy não é soninho, eu vi num dia só"
+        />
+        <ChannelMessage
+          author="Gratos"
+          date="03/07/2022"
+          content="Você tem que entender que Ergo Proxy não é soninho, eu vi num dia só"
+        />
+        <ChannelMessage
+          author="Gratos"
+          date="03/07/2022"
+          content="Você tem que entender que Ergo Proxy não é soninho, eu vi num dia só"
+        />
+        <ChannelMessage
+          author="Gratos"
+          date="03/07/2022"
+          content="Você tem que entender que Ergo Proxy não é soninho, eu vi num dia só"
+        />
+        <ChannelMessage
+          author="Gratos"
+          date="03/07/2022"
+          content="Você tem que entender que Ergo Proxy não é soninho, eu vi num dia só"
+        />
+        <ChannelMessage
+          author="Gratos"
+          date="03/07/2022"
+          content="Você tem que entender que Ergo Proxy não é soninho, eu vi num dia só"
+        />
+        <ChannelMessage
+          author="Gratos"
+          date="03/07/2022"
+          content="Você tem que entender que Ergo Proxy não é soninho, eu vi num dia só"
+        />
+        <ChannelMessage
+          author="Gratos"
+          date="03/07/2022"
+          content="Você tem que entender que Ergo Proxy não é soninho, eu vi num dia só"
+        />
+        <ChannelMessage
+          author="Gratos"
+          date="03/07/2022"
+          content="Você tem que entender que Ergo Proxy não é soninho, eu vi num dia só"
+        />
+        <ChannelMessage
+          author="Gratos"
+          date="03/07/2022"
+          content="Você tem que entender que Ergo Proxy não é soninho, eu vi num dia só"
+        />
+        <ChannelMessage
+          author="Gratos"
+          date="03/07/2022"
+          content="Você tem que entender que Ergo Proxy não é soninho, eu vi num dia só"
+        />
+        <ChannelMessage
+          author="Gratos"
+          date="03/07/2022"
+          content="Você tem que entender que Ergo Proxy não é soninho, eu vi num dia só"
+        />
+        <ChannelMessage
+          author="Gratos"
+          date="03/07/2022"
+          content="Você tem que entender que Ergo Proxy não é soninho, eu vi num dia só"
+        />
+        <ChannelMessage
+          author="Gratos"
+          date="03/07/2022"
+          content="Você tem que entender que Ergo Proxy não é soninho, eu vi num dia só"
+        />
+        <ChannelMessage
+          author="Gratos"
+          date="03/07/2022"
+          content="Você tem que entender que Ergo Proxy não é soninho, eu vi num dia só"
+        />
+        <ChannelMessage
+          author="Gratos"
+          date="03/07/2022"
+          content="Você tem que entender que Ergo Proxy não é soninho, eu vi num dia só"
+        />
+        <ChannelMessage
+          author="Gratos"
+          date="03/07/2022"
+          content="Você tem que entender que Ergo Proxy não é soninho, eu vi num dia só"
+        />
+        <ChannelMessage
+          author="Gratos"
+          date="03/07/2022"
+          content="Você tem que entender que Ergo Proxy não é soninho, eu vi num dia só"
+        />
+        <ChannelMessage
+          author="Gratos"
+          date="03/07/2022"
+          content="Você tem que entender que Ergo Proxy não é soninho, eu vi num dia só"
+        />
+        <ChannelMessage
+          author="Gratos"
+          date="03/07/2022"
+          content="Você tem que entender que Ergo Proxy não é soninho, eu vi num dia só"
+        />
+        <ChannelMessage
+          author="Gratos"
+          date="03/07/2022"
+          content="Você tem que entender que Ergo Proxy não é soninho, eu vi num dia só"
+        />
       </Messages>
 
       <InputWrapper>

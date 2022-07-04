@@ -13,7 +13,7 @@ const ChannelList: React.FC = () => {
       <ChannelButton channelName="regra" />
       <ChannelButton channelName="chat-livre" />
       <ChannelButton channelName="animes-mangás-etc" />
-      <ChannelButton channelName="panela" />
+      <ChannelButton channelName="panela" selected />
     </Container>
   );
 };
