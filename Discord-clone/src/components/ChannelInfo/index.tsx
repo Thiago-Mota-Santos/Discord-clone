@@ -44,6 +44,35 @@ const ChannelInfo: React.FC = () => {
             </>
           }
         />
+        <ChannelMessage
+          author="Kaneko"
+          date="04/07/2022"
+          content="Se amor fosse preto e carinho fosse branco oq eu sinto por você seria xadrezinho"
+        />
+        <ChannelMessage
+          author="Vitinho"
+          date="04/07/2022"
+          content={
+            <>
+              <Mention>@Thzinh</Mention> TATTAD TATTAD TATTAD TATTAD TATTAD
+            </>
+          }
+        />
+        <ChannelMessage
+          author="Kaneko"
+          date="04/07/2022"
+          content="Se amor fosse preto e carinho fosse branco oq eu sinto por você seria xadrezinho"
+        />
+        <ChannelMessage
+          author="Kaneko"
+          date="04/07/2022"
+          content="Se amor fosse preto e carinho fosse branco oq eu sinto por você seria xadrezinho"
+        />
+        <ChannelMessage
+          author="Kaneko"
+          date="04/07/2022"
+          content="Se amor fosse preto e carinho fosse branco oq eu sinto por você seria xadrezinho"
+        />
       </Messages>
 
       <InputWrapper>

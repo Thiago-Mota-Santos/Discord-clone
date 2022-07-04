@@ -5,7 +5,7 @@ import { Container, Text, DownIcon } from "./styles";
 const ServerName: React.FC = () => {
   return (
     <Container>
-      <Text>Server Name</Text>
+      <Text>Companhia do desespero</Text>
       <DownIcon />
     </Container>
   );

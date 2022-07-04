@@ -2,15 +2,15 @@ import React from "react";
 
 import { Container, HashTag, Text, Separator, Description } from "./styles";
 
-const ChannelInfo: React.FC = () => {
+const ChatName: React.FC = () => {
   return (
     <Container>
       <HashTag />
-      <Text>casa-dos-degenerados</Text>
+      <Text>panela</Text>
       <Separator />
-      <Description>Animes, mangas e futilidades</Description>
+      <Description>Onde tudo de ruim se reune</Description>
     </Container>
   );
 };
 
-export default ChannelInfo;
+export default ChatName;
